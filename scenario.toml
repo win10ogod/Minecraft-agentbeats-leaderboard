@@ -1,3 +1,4 @@
+# Rerun after resolving Docker image from the AgentBeats Amber manifest.
 [green_agent]
 agentbeats_id = "019ca14a-10e7-70b2-8463-ca8c7e723735"
 
