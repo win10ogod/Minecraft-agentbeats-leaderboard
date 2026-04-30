@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/kwsmoobang/mcu-agentbeats@sha256:d34e324671f5b2c2a434b6a9d8de7064ea8c8306423d34b30494567abcaea7ef",
+    "agent": "ghcr.io/win10ogod/mc-multimodal-agent@sha256:8f8db5fef6d214a54652a17609ed7198e9f1d5ad5c3922b05cec2381fed4917e",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-04-30T17:23:39Z",
+  "github_actions": {
+    "run_url": "https://github.com/win10ogod/Minecraft-agentbeats-leaderboard/actions/runs/25171392839",
+    "run_logs_url": "https://api.github.com/repos/win10ogod/Minecraft-agentbeats-leaderboard/actions/runs/25171392839/logs",
+    "ref": "refs/heads/main",
+    "sha": "062ccc69621ffa3088ea25705ccf5646fa1b283e",
+    "repository_url": "https://github.com/win10ogod/Minecraft-agentbeats-leaderboard",
+    "workflow_ref": "win10ogod/Minecraft-agentbeats-leaderboard/.github/workflows/run-scenario.yml@refs/heads/main",
+    "workflow_sha": "062ccc69621ffa3088ea25705ccf5646fa1b283e"
+  }
+}
